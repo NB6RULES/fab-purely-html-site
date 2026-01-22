@@ -1,3 +1,17 @@
+/*
+Conflict detected: Please resolve the changes below.
+Local changes:
+
+h1 {
+  color: grey;
+}
+p {
+  color: white;
+}
+
+Remote changes:
+
+*/
 
 h1 {
   color: grey;
